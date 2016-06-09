@@ -5,3 +5,5 @@ http://www.backlog.jp/git-guide/intro/intro2_4.html
 
 さて、別人の作業をシミュレートして、ここにテキストを追加しました。
 2016/06/10　01:11
+
+こちらはTutorialを修正したよ
