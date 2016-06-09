@@ -12,3 +12,4 @@ http://www.backlog.jp/git-guide/intro/intro2_4.html
 
 両方の修正を取り入れた。
 
+これからどう進めるか、まだ漠然としていて、明確な答えはない。
